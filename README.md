@@ -1,2 +1,5 @@
 # miPrimerRepositorio
-Es un repositorio de aprendizaje de un curso de Platzi
+
+Mi primer repositorio, Yeah!!
+
+Mi primera contribución locarl para Github
